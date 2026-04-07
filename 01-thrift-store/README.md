@@ -1,4 +1,4 @@
-# Instagram Thrift Store — ER Diagram
+# Instagram Thrift Store - ER Diagram
 
 ## About
 ER diagram designed for an Instagram-based thrift + handmade creator store.
